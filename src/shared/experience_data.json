@@ -1,0 +1,67 @@
+{
+	"title": "Professional Experience",
+	"subtitle": "Full Time, Internship and Volunteership",
+	"description":
+		"I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+	"header_image_path": "experience.svg",
+	"sections": [
+		{
+			"title": "Full Time",
+			"work": true,
+			"experiences": [
+			  {
+				"title": "Senior Software Engineer",
+				"company": "Cigna Healthcare",
+				"company_url": "https://www.cigna.com/?PID=ps_01_23479&customtrack1=0311435&gad_source=1&gclid=Cj0KCQjwqcO_BhDaARIsACz62vP8uV90qErX8wWaKObiJhQq3-JQzipk91qZpFGowWKyv3f76GMZlnMaAoFmEALw_wcB&gclsrc=aw.ds",
+				"logo_path": "cigna_healthcare-logo.png",
+				"duration": "July 2024 - Present",
+				"location": "Raynham, MA, USA",
+				"description":
+				  "Building modern, responsive web applications using React Native and NextJS. Experience designing micro-frontend architectures and reusable UI components with TypeScript and CSS. Delivering scalable solutions with Docker and Kubernetes across AWS and Azure. Leading frontend test automation with Jest and Selenium, maintaining >90% test coverage and reducing production issues.",
+				"color": "#000000"
+			  },
+			  {
+				"title": "Software Engineer",
+				"company": "Office of Information Technology Services, NYS Taxation and Finance",
+				"company_url": "https://www.tax.ny.gov/",
+				"logo_path": "nys_office_of_information_technology_services_logo.jpeg",
+				"duration": "Feb 2024 - June 2024",
+				"location": "Albany, NY, USA",
+				"description":
+				  "Transitioned from COBOL to Java for modernizing legacy systems. Improved performance by 30% through backend integration. Worked across Java, C++, C#, .NET, and AIX DB2 for system updates. Automated workflows, reducing manual effort by 50%. Resolved 95% of support tickets within SLA, ensuring 98% uptime.",
+				"color": "#0879bf"
+			  },
+			  {
+				"title": "Software Engineer",
+				"company": "Cloud Data Systems Inc",
+				"company_url": "https://clouddatasystemsus.com/",
+				"logo_path": "Cloud data systems inc.jpeg",
+				"duration": "Aug 2022 - Jan 2024",
+				"location": "Albany, NY, USA",
+				"description":
+				  "Built secure web applications using React Native, NextJS, and TypeScript, reducing vulnerabilities and strengthening data protection. Applied J2EE patterns like Factory and Singleton across the SDLC. Designed interactive UIs with JSP, JavaScript, jQuery, and HTML. Secured REST APIs with OAuth2 via Spring Security and optimized MySQL queries, improving response time by 25%.",
+				"color": "#9b1578"
+			  },
+			  {
+				"title": "Java Full Stack Developer",
+				"company": "Maxis software Private Limited",
+				"company_url": "https://www.maxissoft.in/index.php",
+				"logo_path": "mlogo.png",
+				"duration": "Aug 2019 - Jul 2021",
+				"location": "Hyderabad, Telangana",
+				"description":
+				  "Built full-stack applications using Java, .NET, SQL, MySQL, and HTML5 on Linux environments. Improved functionality by 40% through optimized database design with Oracle and NoSQL. Developed scalable systems using J2EE, MVC, Hibernate, and Spring. Designed and integrated RESTful APIs for seamless frontend-backend communication. Deployed cloud infrastructure on AWS (EC2, S3, RDS), boosting availability and scalability.",
+				"color": "#fc1f20"
+			  }
+			]
+		  },
+		{
+			"title": "Internships",
+			"experiences": []
+		},
+		{
+			"title": "Volunteerships",
+			"experiences": []
+		}
+	]
+}

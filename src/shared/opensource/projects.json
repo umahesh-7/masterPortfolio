@@ -1,0 +1,111 @@
+{
+  "data": [
+    
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Machine Learning",
+      "createdAt": "2022-11-13T20:41:33Z",
+      "url": "https://github.com/umahesh-7/Practicum-in-Machine-Learning",
+      "description": "📦 Developed a hands-on machine learning project focused on solving real-world problems using Python, Scikit-learn, and TensorFlow. Implemented data preprocessing, model training, and performance evaluation workflows.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Numpy",
+          "iconifyClass": "vscode-icons:file-type-numpy"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "skill-icons:tensorflow-light"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Bachelor’s Degree Majors",
+      "createdAt": "2021-11-06T16:26:54Z",
+      "url": "https://github.com/umahesh-7/Bachelors-Degree-Majors",
+      "description": "🔥 Built a machine learning model to predict gender from academic and demographic data using algorithms like Decision Tree, Naive Bayes, and Logistic Regression.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Logistic Regression",
+          "iconifyClass": "carbon:chart-logistic-regression"
+        },
+        {
+          "name": "Decision Tree",
+          "iconifyClass": "carbon:decision-tree"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Enterprise Programming",
+      "createdAt": "2021-02-11T14:50:20Z",
+      "url": "https://github.com/umahesh-7/EP_Project",
+      "description": "🌀 Developed an Attendance Management System to automate student tracking and reporting with a user-friendly interface and secure data processing.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": " Perfect Hash Table-Based Telephone Directory",
+      "createdAt": "2020-11-26T17:56:07Z",
+      "url": "https://github.com/umahesh-7/Data-Structures-Project",
+      "description": "⚙️ Built a Telephone Directory using perfect hashing to enable fast and collision-free retrieval of contact information, optimized for performance and space efficiency.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C Programming",
+          "iconifyClass": "hugeicons:c-programming"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Student information System",
+      "createdAt": "2018-06-11",
+      "url": "https://github.com/umahesh-7/Java-Project",
+      "description": "🚀 Developed a web-based system to streamline student data management, including course enrollment, attendance, and grading functionalities.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "skill-icons:java-light"
+        },
+        {
+          "name": "SQL Server",
+          "iconifyClass": "devicon-plain:microsoftsqlserver-wordmark"
+        },
+        {
+          "name": "Eclipse",
+          "iconifyClass": "devicon:eclipse"
+        }
+      ]
+    }
+  ]
+}
